@@ -19,3 +19,6 @@ JPEG (Joint Photographic Experts Group) is a popular image compression standard 
 The JPEG decoder reverses the above steps to reconstruct the original image from the compressed data.
 
 
+![233417587-5d362e93-45d5-438d-add2-e1ed3a407128](https://github.com/FredLenrie/CompreX/assets/138697797/c0d0f403-b844-431e-ad91-647aecdcbfac)
+
+
