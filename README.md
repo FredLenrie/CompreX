@@ -1,4 +1,4 @@
-# Image-Compression
+# CompreX
 
 This project implements the JPEG algorithm for image compression. JPEG is a lossy compression in which some of the data from the original image is lost
 
